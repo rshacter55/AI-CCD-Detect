@@ -1,1 +1,1 @@
-# CCD-Detect
+# AI-CCD-Detect
